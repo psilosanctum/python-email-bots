@@ -6,11 +6,12 @@ from email import encoders
 import os.path
 
 # Login information for email sender
-sender = ''
-password = ''
+sender = 'abc123@gmail.com' # replace
+password = 'Password123!' # replace
 
 # Email recipient(s)
-recipients = ['', '']
+recipients = ['employee1@gmail.com', 'employee2@gmail.com', 
+                'employee3@gmail.com'] # replace
 
 # Create email subject and body
 subject = "Monthly Transaction Report"
