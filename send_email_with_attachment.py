@@ -17,12 +17,11 @@ subject = "Monthly Transaction Report"
 html = """\
     <html>
         <head></head>
-        <body>
-            <p> Howdy! <br>
-                <div style="align-items: center;">
+        <body style="color: black;">
+            <div> Howdy! <br> </div>
+                <p style="align-items: center;">
                     Please see the attached PDF detailing the prior month's transaction data. Contact management to discuss any comments or questions.
-                </div>
-            </p>
+                </p>
             <div style="margin-top: 25px">
                 Yours truly, <br>
                 Bot X-145
